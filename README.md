@@ -26,7 +26,7 @@
 Mở **Shadowrocket** → Tab **Config** → Nhấn `+` → Dán URL:
 
 ```
-https://raw.githubusercontent.com/dtuandzxyz/Locket-Filter-Module/main/Lockgold-Filter-AI.conf
+https://raw.githubusercontent.com/huanhoahongso3-collab/Locket-Filter-Module/main/Lockgold-Filter-AI.conf
 ```
 
 ### Bước 2: Bật HTTPS Decryption (MITM)
